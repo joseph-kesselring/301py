@@ -1,0 +1,12 @@
+CSV 301 Redirect Automation tool.
+Written by Joseph Kesselring (Of CodeMob, LLC)
+Date: March, 2012
+
+
+This is a simple tool that has been created in python to automate the process of migrating multiple web pages to a central website(domain). 
+
+Reason:
+When migrating websites from one domain to another, or even updating one website, there is a need to update the destinations of web pages that are defunct to an updated location. When they all need to be updated to one domain this tool automates that process.
+
+There are more efficient means in some use cases, for my uses this was the most effective and efficient. 
+
